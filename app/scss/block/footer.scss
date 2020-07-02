@@ -1,0 +1,25 @@
+footer {
+    padding-bottom: 34px;
+    .btn{
+        span{
+            padding: 17px 17px 15px 17px;
+            &:after{
+                display: none;
+            }
+        }
+    }
+}
+
+.footer__slider-btn {
+    text-align: center;
+}
+
+.footer__text {
+    text-align: center;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 1.05px;
+    opacity: 0.5;
+
+}
